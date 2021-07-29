@@ -1,1 +1,2 @@
-# python-test
+# python-tes
+git 練習
